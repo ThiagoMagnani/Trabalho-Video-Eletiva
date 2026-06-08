@@ -51,7 +51,7 @@ $reservas = carregar('reservas.json');
                 <th>Usuário</th>
                 <th>Espaço</th>
                 <th>Evento</th>
-                <th>Data</th>
+                <th>Data</th>s
             </tr>
             <?php foreach ($reservas as $r): ?>
                 <tr>

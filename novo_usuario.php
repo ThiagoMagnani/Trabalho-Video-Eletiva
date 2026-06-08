@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 require_once('cabecalho.php');
 ?>
 
-<h2>Novo Usuário</h2>
+<h2>Novo Usuário</h2>s
 <form method="post">
     <div class="mb-3">
         <label>Nome</label>

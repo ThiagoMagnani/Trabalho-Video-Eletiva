@@ -32,7 +32,7 @@ if (file_exists('espacos.json')) {
             </tr>
         <?php endforeach; ?>
     </table>
-    
+
 <?php endif; ?>
 
 <?php
